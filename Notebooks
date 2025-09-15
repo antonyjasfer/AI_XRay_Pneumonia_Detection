@@ -1,1 +1,9 @@
+import os
+import zipfile
+import shutil
+
+# Make sure data folder exists
+os.makedirs("../data", exist_ok=True)
+
+print("✅ Data folder is ready for dataset download")
 
