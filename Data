@@ -1,5 +1,6 @@
-echo. > data/.gitkeep
-git add data/.gitkeep
-git commit -m "Add .gitkeep to data folder"
+echo. > model/.gitkeep
+git add model/.gitkeep
+git commit -m "Add .gitkeep to model folder"
 git push origin main
+
 
