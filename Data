@@ -1,6 +1,1 @@
-echo. > model/.gitkeep
-git add model/.gitkeep
-git commit -m "Add .gitkeep to model folder"
-git push origin main
-
 
